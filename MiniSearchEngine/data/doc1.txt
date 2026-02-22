@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+This is a sample text file for the mini search engine.
+Search engines are complex systems but we are building a mini version.
+Fast performance is key for a good user experience.

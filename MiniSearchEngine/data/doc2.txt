@@ -1,0 +1,5 @@
+A search engine maintains an index to facilitate fast information retrieval.
+Inverted indices are the backbone of modern search systems.
+We use a trie data structure for efficient word lookup.
+C++ provides high performance for system level programming.
+The fox is quick and the dog is lazy.
